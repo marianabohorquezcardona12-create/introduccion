@@ -1,0 +1,7 @@
+ Programa que realiza la suma de un numero 
+escribir " Digite el primer numero "
+Leer Num1
+Escribir " Digite el segundo numero "
+Leer Num2
+Resultado = Num1 + Num2
+Escribir " El resultado de la suma es = ", Resultado
